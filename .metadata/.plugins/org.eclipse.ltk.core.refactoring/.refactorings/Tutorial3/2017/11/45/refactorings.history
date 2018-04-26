@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Tutorial3/finding_files&apos; to &apos;finding_files.pl&apos;" description="Rename resource &apos;finding_files&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="finding_files" name="finding_files.pl" stamp="1510052718678" updateReferences="true"/>
+</session>

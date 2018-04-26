@@ -1,0 +1,6 @@
+#/usr/bin/perl
+use strict;
+use warnings;
+
+my $file='/home/krish/Dropbox/Perl_Scripts/Tutorial3/download.gif';
+

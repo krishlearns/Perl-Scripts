@@ -1,0 +1,7 @@
+I’ve been having trouble with my AT&T DSL installation here at the new place. My internet connection will come and go, seemingly at random, and for random amounts of time. I tweeted about it once already, hoping that sharing my frustration with the world might make me feel a little better. Nope. Didn’t work.
+
+I’ve had this problem before with AT&T, when I got DSL installed at my last place. Things were rough for a while, and then somehow they seemed to straighten out on their own. I’m not crossing my fingers that I’ll have such luck again.
+
+What’s Really Going On?
+
+I decided to try and log the bounces so that I could get a better feel for what was going on. I couldn’t find exactly what I wanted online (and I couldn’t always get online), so I whipped up a Perl script to keep an eye on my connection for me.

@@ -1,0 +1,65 @@
+krish     1967     1  0 14:16 ?        00:00:00 /lib/systemd/systemd --user
+krish     1969  1967  0 14:16 ?        00:00:00 (sd-pam)
+krish     1976     1  0 14:16 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+krish     2054  1356  0 14:16 ?        00:00:00 cinnamon-session --session cinnamon
+krish     2125  2054  0 14:16 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch cinnamon-session-cinnamon
+krish     2128     1  0 14:16 ?        00:00:00 /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch cinnamon-session-cinnamon
+krish     2129     1  0 14:16 ?        00:00:00 /usr/bin/dbus-daemon --fork --print-pid 6 --print-address 9 --session
+krish     2142     1  0 14:16 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+krish     2147  2142  0 14:16 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+krish     2149     1  0 14:16 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+krish     2156  2054  0 14:16 ?        00:00:03 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/cinnamon-settings-daemon
+krish     2171     1  4 14:16 ?        00:11:32 /usr/bin/pulseaudio --start --log-target=syslog
+krish     2206     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfsd
+krish     2211     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+krish     2221     1  0 14:16 ?        00:00:00 /usr/lib/dconf/dconf-service
+krish     2225     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+krish     2237     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+krish     2242     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+krish     2247     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+krish     2253     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+krish     2278     1  0 14:16 ?        00:00:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-printer
+krish     2281  2054  0 14:16 ?        00:00:00 /usr/bin/python3 /usr/bin/cinnamon-launcher
+krish     2286  2281  1 14:16 ?        00:04:54 cinnamon --replace
+krish     2292  1332  0 14:16 ?        00:00:28 c:\TeamViewer\TeamViewer.exe
+krish     2295  2054  0 14:16 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+krish     2297  2054  0 14:16 ?        00:00:02 nemo -n
+krish     2298  2054  0 14:16 ?        00:00:00 nm-applet
+krish     2299  2054  0 14:16 ?        00:00:00 /usr/bin/python3 /usr/bin/cinnamon-killer-daemon
+krish     2314  2054  0 14:16 ?        00:00:00 /usr/bin/python /usr/bin/blueberry-tray
+krish     2353  2314  0 14:16 ?        00:00:00 sh -c /usr/lib/blueberry/blueberry-tray.py
+krish     2367  2353  0 14:16 ?        00:00:00 python2 /usr/lib/blueberry/blueberry-tray.py
+krish     2379     1  0 14:16 ?        00:00:31 /home/krish/.dropbox-dist/dropbox-lnx.x86_64-21.4.25/dropbox
+krish     2395  2367  0 14:16 ?        00:00:00 /usr/sbin/rfkill event
+krish     2401     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+krish     2406     1  0 14:16 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+krish     2549     1  0 14:16 ?        00:00:15 /opt/teamviewer/tv_bin/wine/bin/wineserver
+krish     2566     1  0 14:16 ?        00:00:00 C:\windows\system32\services.exe
+krish     2571     1  0 14:16 ?        00:00:00 C:\windows\system32\explorer.exe /desktop
+krish     2580  2292  0 14:16 ?        00:00:03 /opt/teamviewer//tv_bin/TVGuiSlave.64 29 1
+krish     2581  2292  0 14:16 ?        00:00:03 /opt/teamviewer//tv_bin/TVGuiDelegate 29 1
+krish     2642     1  0 14:16 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+krish     2671  2054  0 14:16 ?        00:00:17 cinnamon-screensaver
+krish     2835  2054  0 14:17 ?        00:00:00 /usr/bin/python3 /usr/bin/mintupdate-launcher
+krish     2836  2054  0 14:17 ?        00:01:20 /usr/bin/python /usr/bin/variety
+krish     2839  2835  0 14:17 ?        00:00:00 sh -c /usr/lib/linuxmint/mintUpdate/mintUpdate.py
+krish     2840  2839  0 14:17 ?        00:00:00 /usr/bin/python3 /usr/lib/linuxmint/mintUpdate/mintUpdate.py
+krish     2951  2054  0 14:17 ?        00:00:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+krish     3081     1  0 14:17 ?        00:00:00 /usr/lib/gvfs/gvfsd-network --spawner :1.7 /org/gtk/gvfs/exec_spaw/1
+krish     3124     1  0 14:17 ?        00:00:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.7 /org/gtk/gvfs/exec_spaw/3
+krish     3656     1  0 14:51 ?        00:00:00 /usr/lib/speech-dispatcher-modules/sd_espeak /etc/speech-dispatcher/modules/espeak.conf
+krish     3661     1  0 14:51 ?        00:00:00 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+krish     3664     1  0 14:51 ?        00:00:00 /usr/lib/speech-dispatcher-modules/sd_cicero /etc/speech-dispatcher/modules/cicero.conf
+krish     3665  3664  0 14:51 ?        00:00:00 [sd_cicero] <defunct>
+krish     3668     1  0 14:51 ?        00:00:00 /usr/lib/speech-dispatcher-modules/sd_generic /etc/speech-dispatcher/modules/generic.conf
+krish     3671     1  0 14:51 ?        00:00:00 /usr/bin/speech-dispatcher --spawn --communication-method unix_socket --socket-path /run/user/1000/speech-dispatcher/speechd.sock
+krish     5737     1  0 16:52 ?        00:00:00 /usr/lib/libreoffice/program/oosplash --writer file:///home/krish/Dropbox/Kbase/Arjuna_Missions.odt
+krish     5755  5737  1 16:52 ?        00:02:06 /usr/lib/libreoffice/program/soffice.bin --writer file:///home/krish/Dropbox/Kbase/Arjuna_Missions.odt --splash-pipe=5
+krish     5982     1  0 17:12 ?        00:00:04 /usr/lib/gnome-terminal/gnome-terminal-server
+krish     5986  5982  0 17:12 pts/0    00:00:00 bash
+krish     6014  5986  0 17:12 pts/0    00:00:01 vi Learn_Perl.pl
+krish     6015  5982  0 17:13 pts/1    00:00:00 bash
+krish     6407     1  0 17:54 ?        00:00:18 xreader /home/krish/Dropbox/Books/Books_Now/Perl.pdf
+krish     6413     1  0 17:54 ?        00:00:00 /usr/lib/x86_64-linux-gnu/xreaderd
+krish     7051  6015  0 18:54 pts/1    00:00:00 ps -ef
+krish     7052  6015  0 18:54 pts/1    00:00:00 grep --color=auto krish

@@ -1,0 +1,4 @@
+#!/usr/bin/perl
+use strict;
+print $0."\n";
+print __FILE__."\n";
